@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivani3025
+- 👋 Hi, I’m @shivani-builds
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project
